@@ -8,11 +8,11 @@
 
  Path | Method | Description
  ---|---|---
- /Lista           | GET    | Lista Moedas
- /Cadastra        | POST   | Cadastra Moedas
- /Remove          | PUT    | Atualiza Moedas
- /Detalha/id      | DELETE | Remove Moedas
- /Detalha/id      | GET    | Detalha Moedas
+ /list            | GET    | Lista Moedas
+ /create          | POST   | Cadastra Moedas
+ /update          | PUT    | Atualiza Moedas
+ /delete/id       | DELETE | Remove Moedas
+ /show/id         | GET    | Detalha Moedas
 
  ### Instalação
 
